@@ -1,9 +1,11 @@
-Puppet WebHooks
+Chocolatey WebHooks
 ====
+
+WIP - Customizations of Puppet-WebHooks
 
 [![Build Status](https://travis-ci.org/puppetlabs/puppet-webhooks.png?branch=master)](https://travis-ci.org/puppetlabs/puppet-webhooks)
 
-puppet-webhooks acts as a relay from Github and other services to Jira and
+chocolatey-webhooks acts as a relay from Github and other services to Jira and
 Trello, so that events on a Github project automatically create and update Jira
 issues or Trello cards.
 
