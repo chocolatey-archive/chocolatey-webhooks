@@ -8,3 +8,5 @@ vendor/
 Gemfile.local
 db/*.sqlite3
 db/schema.rb
+bin/*.json
+.DS_Store
