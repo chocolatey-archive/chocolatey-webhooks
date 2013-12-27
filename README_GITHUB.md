@@ -58,6 +58,11 @@ following:
     dd if=/dev/random bs=1k count=1 | openssl sha256 | awk '{print $2}'
     #=> 845f1e81063d2808823abc810f45cca2b329b87fd5e81d6649219ed6e0560e12
 
+or:
+
+    dd if=/dev/random bs=1k count=1 | pbcopy
+    http://www.everpassword.com/sha-256-generator
+
 And then submitting it with this command:
 
     curl -i -u jeffmccune -d '
