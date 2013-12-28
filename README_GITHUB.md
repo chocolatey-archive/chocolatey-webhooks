@@ -90,3 +90,5 @@ Helper scripts
 
 A number of helper scripts have been included in this repository in the `bin/`
 directory to simplify interacting with the Github API.
+
+Please ensure that the machine account has push, pull and administrative access during the period of setting up the hooks.
